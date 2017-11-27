@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/adnanh/webhook/hook"
+	"github.com/dcj/webhook2/hook"
 
 	"github.com/codegangsta/negroni"
 	"github.com/gorilla/mux"
